@@ -1,7 +1,7 @@
 import "../styles/app.css";
 import PostList from "./Postlist";
 
-import placeholderData from "../data/posts.json"
+import placeholderData from "../data/posts.json";
 
 const App = () => {
   return (
@@ -13,6 +13,6 @@ const App = () => {
       </div>
     </div>
   );
-}
+};
 
 export default App;

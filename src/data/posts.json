@@ -4,7 +4,7 @@
     "title": "Should I learn React?",
     "body": "React is a declarative, efficient, and flexible JavaScript library for building UIs (user interfaces) in web apps (viewed in the browser). It has gained popularity steadily since then and is one of the most in demand front end libraries in use today.",
     "tags": ["react", "introduction", "front end", "2023"],
-    "author": "October22",
+    "author": "Jan23",
     "date": "17-01-2023",
     "isPublished": true
   },
@@ -13,7 +13,7 @@
     "title": "React is awesome!",
     "body": "React has some extremely useful features, including the ability to hold and manipulate data, handle user events, provide validation for props, multiple hooks (and the functionality to implement your own custom hooks from scratch), and its widespread use means support can often be found in the community",
     "tags": ["react", "further introduction", "lecture 2", "state", "props"],
-    "author": "October22",
+    "author": "Jan23",
     "date": "19-01-2023",
     "isPublished": true
   },
@@ -22,7 +22,7 @@
     "title": "Lifecycle and hooks in React!",
     "body": "Useful hooks include useState, useEffect, useContext, useRef... and many more. Will be looking some of these soon enough",
     "tags": ["react", "hooks", "lecture 3", "useEffect", "useContext"],
-    "author": "October22",
+    "author": "Jan23",
     "date": "24-01-2023",
     "isPublished": false
   }

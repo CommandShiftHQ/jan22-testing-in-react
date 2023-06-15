@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check the component renders correctly 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="app__background-wrap"
+  />
+  <div
+    className="app__foreground-wrap"
+  >
+    <div
+      className="app__title"
+    >
+      Testing in React
+    </div>
+    <div
+      className="postlist"
+    >
+      <div
+        className="post"
+      >
+        <div
+          className="post-heading"
+        >
+          <h2>
+            Should I learn React?
+          </h2>
+          <p>
+            React is a declarative, efficient, and flexible JavaScript library for building UIs (user interfaces) in web apps (viewed in the browser). It has gained popularity steadily since then and is one of the most in demand front end libraries in use today.
+          </p>
+        </div>
+        <div
+          className="post-counter"
+        >
+          <span>
+            Upvotes: 
+            0
+          </span>
+          <button
+            onClick={[Function]}
+            type="button"
+            value="Should I learn React?"
+          >
+            Upvote this
+          </button>
+        </div>
+        <div
+          className="post-author"
+        >
+          Author: 
+          Jan23
+        </div>
+        <div
+          className="post-date"
+        >
+          Published: 
+          17-01-2023
+        </div>
+        <h3>
+          Tags:
+        </h3>
+        <ul>
+          <li>
+            react
+          </li>
+          <li>
+            introduction
+          </li>
+          <li>
+            front end
+          </li>
+          <li>
+            2023
+          </li>
+        </ul>
+      </div>
+      <div
+        className="post"
+      >
+        <div
+          className="post-heading"
+        >
+          <h2>
+            React is awesome!
+          </h2>
+          <p>
+            React has some extremely useful features, including the ability to hold and manipulate data, handle user events, provide validation for props, multiple hooks (and the functionality to implement your own custom hooks from scratch), and its widespread use means support can often be found in the community
+          </p>
+        </div>
+        <div
+          className="post-counter"
+        >
+          <span>
+            Upvotes: 
+            0
+          </span>
+          <button
+            onClick={[Function]}
+            type="button"
+            value="React is awesome!"
+          >
+            Upvote this
+          </button>
+        </div>
+        <div
+          className="post-author"
+        >
+          Author: 
+          Jan23
+        </div>
+        <div
+          className="post-date"
+        >
+          Published: 
+          19-01-2023
+        </div>
+        <h3>
+          Tags:
+        </h3>
+        <ul>
+          <li>
+            react
+          </li>
+          <li>
+            further introduction
+          </li>
+          <li>
+            lecture 2
+          </li>
+          <li>
+            state
+          </li>
+          <li>
+            props
+          </li>
+        </ul>
+      </div>
+      <div
+        className="post"
+      >
+        <div
+          className="post-heading"
+        >
+          <h2>
+            Lifecycle and hooks in React!
+          </h2>
+          <p>
+            Coming soon!
+          </p>
+        </div>
+        <div
+          className="post-counter"
+        >
+          <span>
+            Upvotes: 
+            0
+          </span>
+          <button
+            onClick={[Function]}
+            type="button"
+            value="Lifecycle and hooks in React!"
+          >
+            Upvote this
+          </button>
+        </div>
+        <div
+          className="post-author"
+        >
+          Author: 
+          Jan23
+        </div>
+        <div
+          className="post-date"
+        >
+          Published: 
+          24-01-2023
+        </div>
+        <h3>
+          Tags:
+        </h3>
+        <ul>
+          <li>
+            react
+          </li>
+          <li>
+            hooks
+          </li>
+          <li>
+            lecture 3
+          </li>
+          <li>
+            useEffect
+          </li>
+          <li>
+            useContext
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

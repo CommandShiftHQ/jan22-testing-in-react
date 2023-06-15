@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostList check snapshot matches 1`] = `
+<div
+  className="postlist"
+>
+  <div
+    className="post"
+  >
+    <div
+      className="post-heading"
+    >
+      <h2>
+        test title
+      </h2>
+      <p>
+        test body
+      </p>
+    </div>
+    <div
+      className="post-counter"
+    >
+      <span>
+        Upvotes: 
+        0
+      </span>
+      <button
+        onClick={[Function]}
+        type="button"
+        value="test title"
+      >
+        Upvote this
+      </button>
+    </div>
+    <div
+      className="post-author"
+    >
+      Author: 
+      test author
+    </div>
+    <div
+      className="post-date"
+    >
+      Published: 
+      test date
+    </div>
+    <h3>
+      Tags:
+    </h3>
+    <ul>
+      <li>
+        tag 1
+      </li>
+      <li>
+        tag 2
+      </li>
+      <li>
+        tag 3
+      </li>
+    </ul>
+  </div>
+  <div
+    className="post"
+  >
+    <div
+      className="post-heading"
+    >
+      <h2>
+        test title2
+      </h2>
+      <p>
+        Coming soon!
+      </p>
+    </div>
+    <div
+      className="post-counter"
+    >
+      <span>
+        Upvotes: 
+        0
+      </span>
+      <button
+        onClick={[Function]}
+        type="button"
+        value="test title2"
+      >
+        Upvote this
+      </button>
+    </div>
+    <div
+      className="post-author"
+    >
+      Author: 
+      test author2
+    </div>
+    <div
+      className="post-date"
+    >
+      Published: 
+      test date2
+    </div>
+    <h3>
+      Tags:
+    </h3>
+    <ul>
+      <li>
+        tag 1
+      </li>
+      <li>
+        tag 2
+      </li>
+      <li>
+        tag 3
+      </li>
+    </ul>
+  </div>
+</div>
+`;
